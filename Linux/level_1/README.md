@@ -1,2 +1,3 @@
-This folder contains linux level 1 task and detailed solutions.
+## <span><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Java" alt="Linux" width="68" height="68"/>&nbsp;</span> Linux level 1 Task
 
+<strong>This folder contains linux level 1 task and detailed solutions.</strong>
