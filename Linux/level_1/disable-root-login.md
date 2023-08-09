@@ -10,6 +10,8 @@ After doing some security audits of servers, xFusionCorp Industries security tea
 ## Task
 a. Disable direct SSH root login on all app servers in Stratos Datacenter.
 
+![Screenshot (26)](https://github.com/DrInTech22/KodeKloud-Engineer-Tasks/assets/94924061/91c5be4e-c96d-44e9-957f-670df7c2e53a)
+
 ## solution
 1. ssh into the App server 1
 ```
