@@ -9,3 +9,4 @@
 5. [Linux User Expiry](https://github.com/DrInTech22/KodeKloud-Engineer-Tasks/blob/main/Linux/level_1/linux-user-expiry.md)
 6. [Linux User Files](https://github.com/DrInTech22/KodeKloud-Engineer-Tasks/blob/main/Linux/level_1/linux-user-files.md)
 7. [Disable root login](https://github.com/DrInTech22/KodeKloud-Engineer-Tasks/blob/main/Linux/level_1/disable-root-login.md)
+8. [Linux archive](https://github.com/DrInTech22/KodeKloud-Engineer-Tasks/blob/main/Linux/level_1/linux-archive.md)
