@@ -11,6 +11,9 @@ DevOps team created a new Git repository last week; however, as of now no team i
 a. The repo that needs to be cloned is /opt/official.git
 b. Clone this git repository under /usr/src/kodekloudrepos directory. Please do not try to make any changes in the repo.
 
+
+![Screenshot (35)](https://github.com/DrInTech22/KodeKloud-Engineer-Tasks/assets/94924061/f02ab549-7245-40c8-863c-9795c43a1c8f)
+
 ## solution
 1. ssh into the Storage server
 ```
