@@ -16,6 +16,7 @@ a. Copy sample index.html file from jump host to storage server under cloned rep
 ```
 scp /tmp/index.html natasha@ststor01:/tm
 ```
+
 2. ssh into storage server and copy file to cloned repo
 ```
 ssh natasha@ststor01
@@ -23,6 +24,7 @@ ssh natasha@ststor01
 ```
 cp /tmp/index.html /usr/src/kodekloudrepos/news
 ```
+
 3. stage the file, commit and push to master branch
 ```
 cd  /usr/src/kodekloudrepos/news
@@ -37,28 +39,6 @@ git commit -m "add index.html"
 git push origin master
 ```
 
-
-1. ssh into the Storage server
-```
-ssh username@ip_addr
-```
-  switch to root user
-```
-sudo su
-```
-2. switch directory to /usr/src/kodekloudrepos
-
-```
-cd /usr/src/kodekloudrepos
-```
-
-3. clone git repo 
-
-```
-git clone /opt/official.git
-```
-
-
-
+![Screenshot (37)](https://github.com/DrInTech22/KodeKloud-Engineer-Tasks/assets/94924061/f93ba8bc-a9ae-44f2-872e-aed3754ec4b5)
 
 
