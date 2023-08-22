@@ -11,3 +11,4 @@
 7. [Disable root login](https://github.com/DrInTech22/KodeKloud-Engineer-Tasks/blob/main/Linux/level_1/disable-root-login.md)
 8. [Linux archive](https://github.com/DrInTech22/KodeKloud-Engineer-Tasks/blob/main/Linux/level_1/linux-archive.md)
 9. [Linux Acess control List](https://github.com/DrInTech22/KodeKloud-Engineer-Tasks/blob/main/Linux/level_1/linux-acl.md)
+10. [Linux string substitute](https://github.com/DrInTech22/KodeKloud-Engineer-Tasks/blob/main/Linux/level_1/string-substitue.md)
