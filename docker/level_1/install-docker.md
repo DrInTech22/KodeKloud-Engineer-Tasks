@@ -10,6 +10,9 @@ Last week the Nautilus DevOps team met with the application development team and
 
 2. Start docker service.
 
+![Screenshot (44)](https://github.com/DrInTech22/KodeKloud-Engineer-Tasks/assets/94924061/690f4bfb-ed35-4bd2-b354-f61329b56ee8)
+
+
 ## solution
 1. login to app server 1 and switch to root user
 
