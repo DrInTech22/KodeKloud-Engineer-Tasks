@@ -1,4 +1,4 @@
-## <span><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Java" alt="Linux" width="68" height="68"/>&nbsp;</span> Linux level 1 Task
+## <span><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Java" alt="Linux" width="68" height="68"/>&nbsp;</span> Docker level 1 Task
 
 <strong>This folder contains docker level 1 task and detailed solutions.</strong>
 ## Task
