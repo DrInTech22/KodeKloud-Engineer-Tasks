@@ -14,7 +14,7 @@ Last week the Nautilus DevOps team met with the application development team and
 
 
 ## solution
-1. login to app server 1 and switch to root user
+1. login to app server 2 and switch to root user
 
 ```
 ssh username@ip_addr
